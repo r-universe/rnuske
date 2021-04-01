@@ -3,3 +3,15 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "apcf"]
+	path = apcf
+	url = https://github.com/rnuske/apcf
+	shallow = true
+[submodule "komaletter"]
+	path = komaletter
+	url = https://github.com/rnuske/komaletter
+	shallow = true
+[submodule "vegperiod"]
+	path = vegperiod
+	url = https://github.com/rnuske/vegperiod
+	shallow = true
