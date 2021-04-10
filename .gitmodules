@@ -7,11 +7,14 @@
 	path = apcf
 	url = https://github.com/rnuske/apcf
 	shallow = true
+	registered = true
 [submodule "komaletter"]
 	path = komaletter
 	url = https://github.com/rnuske/komaletter
 	shallow = true
+	registered = true
 [submodule "vegperiod"]
 	path = vegperiod
 	url = https://github.com/rnuske/vegperiod
 	shallow = true
+	registered = true
