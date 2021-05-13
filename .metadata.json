@@ -1,0 +1,14 @@
+[
+  {
+    "package": "apcf",
+    "oncran": true
+  },
+  {
+    "package": "komaletter",
+    "oncran": true
+  },
+  {
+    "package": "vegperiod",
+    "oncran": true
+  }
+]
