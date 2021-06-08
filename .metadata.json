@@ -1,5 +1,17 @@
 [
   {
+    "package": "komaletter",
+    "oncran": true
+  },
+  {
+    "package": "vegperiod",
+    "oncran": true
+  },
+  {
+    "package": "apcf",
+    "oncran": true
+  },
+  {
     "package": "TreeGrOSSinR"
   }
 ]

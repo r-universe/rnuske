@@ -3,6 +3,21 @@
 	url = https://github.com/rnuske/universe
 	shallow = true
 	branch = HEAD
+[submodule "komaletter"]
+	path = komaletter
+	url = https://github.com/rnuske/komaletter
+	shallow = true
+	registered = true
+[submodule "vegperiod"]
+	path = vegperiod
+	url = https://github.com/rnuske/vegperiod
+	shallow = true
+	registered = true
+[submodule "apcf"]
+	path = apcf
+	url = https://github.com/rnuske/apcf
+	shallow = true
+	registered = true
 [submodule "TreeGrOSSinR"]
 	path = TreeGrOSSinR
 	url = https://github.com/rnuske/TreeGrOSSinR
