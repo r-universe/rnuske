@@ -1,5 +1,8 @@
 [
   {
+    "package": "et.nwfva"
+  },
+  {
     "package": "komaletter",
     "oncran": true
   },
