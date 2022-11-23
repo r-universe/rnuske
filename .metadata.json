@@ -1,6 +1,7 @@
 [
   {
-    "package": "et.nwfva"
+    "package": "et.nwfva",
+    "oncran": true
   },
   {
     "package": "komaletter",
