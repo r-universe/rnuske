@@ -2,6 +2,12 @@
 	path = .registry
 	url = https://github.com/rnuske/universe
 	branch = HEAD
+[submodule "TreeGrOSSinR"]
+	path = TreeGrOSSinR
+	url = https://github.com/rnuske/TreeGrOSSinR
+[submodule "apcf"]
+	path = apcf
+	url = https://github.com/rnuske/apcf
 [submodule "et.nwfva"]
 	path = et.nwfva
 	url = https://github.com/rnuske/et.nwfva
@@ -11,9 +17,3 @@
 [submodule "vegperiod"]
 	path = vegperiod
 	url = https://github.com/rnuske/vegperiod
-[submodule "apcf"]
-	path = apcf
-	url = https://github.com/rnuske/apcf
-[submodule "TreeGrOSSinR"]
-	path = TreeGrOSSinR
-	url = https://github.com/rnuske/TreeGrOSSinR
