@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/rnuske/universe
+	url = https://github.com/rnuske/rnuske.r-universe.dev
 	branch = HEAD
 [submodule "TreeGrOSSinR"]
 	path = TreeGrOSSinR
